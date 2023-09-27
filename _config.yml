@@ -1,6 +1,6 @@
 # General settings of the site you can find at /_data/settings.yml
 
-baseurl: "/chelia" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog <!--originalmente: /chelia-->
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
