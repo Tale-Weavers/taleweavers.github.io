@@ -79,18 +79,17 @@ image: banner.jpg
 
 <!-- begin clients -->
 <div class="clients">
-  <h2 class="clients-title section-title"><i class="ion ion-ios-person"></i> {{ site.data.settings.clients-title
-  }}</h2>
+  <h2 class="clients-title section-title"><i class="ion ion-ios-person"></i> {{ site.data.settings.clients-title}}</h2>
   <div class="clients-box">
     <ul class="clients-list siema slick list-reset">
       {% for clients in site.data.settings.clients %}
-        {% for i in (1..1) %}
+        {% for i in (0..6) %}<!--originalmente 1..1-->
         <li class="clients-item">
-          <div class="client-quote"><i class="ion ion-md-quote"></i> {{ clients.quote }}</div>
           <div class="client-info">
             <strong class="client-name">{{ clients.name }}</strong>
             <em class="client-title">{{ clients.title }}</em>
           </div>
+          <div class="client-quote"><i class="ion ion-md-quote"></i> {{ clients.quote }}</div>
         </li>
         {% endfor %}
       {% endfor %}
