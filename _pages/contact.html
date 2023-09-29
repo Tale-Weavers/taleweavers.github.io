@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Get In Touch
-image: 03.jpg
+title: Contact us
+image: banner.jpg
 permalink: /contact/
 ---
 <!-- begin form-box -->
@@ -9,16 +9,16 @@ permalink: /contact/
   <form class="form" method="POST" action="{% if site.data.settings.email %}https://formspree.io/{{site.data.settings.email}}{% else %}#{% endif %}">
     <div class="form-group">
       <div class="form-item form-name">
-        <label for="">Your Name</label>
+        <label for="">Name:</label>
         <input type="text" name="name" required>
       </div>
       <div class="form-item form-email">
-        <label for="">Your Email</label>
+        <label for="">Email:</label>
         <input type="email" name="email" required>
       </div>
     </div>
     <div class="form-item">
-      <label for="">Your message here</label>
+      <label for="">Message:</label>
       <textarea name="text" id="" cols="30" rows="10" required></textarea>
     </div>
     <div class="form-item">
