@@ -7,8 +7,8 @@ title: Tale Weavers
 # Here you can add link in main menu
 menu:
 - {name: Portfolio, url: 'work', icon: 'ion ion-ios-briefcase'}
-- {name: Blog, url: 'blog', icon: 'ion ion-ios-paper'}
-- {name: Contact, url: 'contact', icon: 'ion ion-ios-mail'}
+- {name: Devlog, url: 'blog', icon: 'ion ion-ios-paper'}
+- {name: Contact us, url: 'contact', icon: 'ion ion-ios-mail'}
 
 #-------------------------------
 # About Section
