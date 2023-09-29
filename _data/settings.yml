@@ -6,7 +6,7 @@ title: Tale Weavers
 
 # Here you can add link in main menu
 menu:
-- {name: Work, url: 'work', icon: 'ion ion-ios-briefcase'}
+- {name: Portfolio, url: 'work', icon: 'ion ion-ios-briefcase'}
 - {name: Blog, url: 'blog', icon: 'ion ion-ios-paper'}
 - {name: Contact, url: 'contact', icon: 'ion ion-ios-mail'}
 
@@ -16,7 +16,7 @@ menu:
 avatar: taleweaverslogo.png
 name: Tale Weavers
 my-job: Game Studio
-description: Meet our indie game studio: a passionate URJC student team from Spain, crafting unique games.
+description: Meet our indie game studio: we are a team of students from URJC in Spain, crafting unique games.
 email: taleweavers.games@gmail.com
 
 #-------------------------------
@@ -59,32 +59,32 @@ clients-title: Team
 clients:
 - {
   name: "Pablo Conde López",
-  title: "Programador y Game Designer",
+  title: "Programmer & Game Designer",
   quote: "<p><strong>Working with Chris was the highlight of my career.</strong> Art party before they sold out lo-fi cronut. Narwhal normcore kinfolk crucifix cronut coloring book man braid lomo fixie sartorial helvetica cornhole activated charcoal ethical.</p>"
 }
 - {
   name: "Almudena Sánchez Encinas",
-  title: "Artista",
+  title: "Artist",
   quote: "<p><strong>While we all felt that Chris was a great.</strong> Woke lumbersexual iceland truffaut blog, deep v poke ramps vexillologist heirloom flexitarian taxidermy lomo seitan gastropub. Bespoke vape next level meditation tattooed cred.</p>"
 }
 - {
   name: "Daniel Salguero Fernández",
-  title: "Game Designer y Músico",
+  title: "Game Designer & Musician",
   quote: "<p><strong>Chillwave ethical enamel pin, fashion axe leggings.</strong> Bespoke franzen umami sustainable. Chambray keffiyeh cred sriracha. Hashtag street art humblebrag pok pok viral meggings tacos chambray narwhal gentrify woke etsy.</p>"
 }
 - {
   name: "Gloria Turati Domínguez",
-  title: "Artista y Música",
+  title: "Artist & Musician",
   quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
 }
 - {
   name: "Gonzalo Barranco Castro",
-  title: "Designer y Asistente de Programación",
+  title: "Designer & Programming Assistant",
   quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
 }
 - {
   name: "Luis Morón Álvarez",
-  title: "Programador",
+  title: "Programmer",
   quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
 }
 
