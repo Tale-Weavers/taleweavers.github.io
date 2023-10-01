@@ -32,6 +32,15 @@ skills:
 - {name: Programming, value: '70'}
 
 #-------------------------------
+# Project Section
+
+project-title: Our Project
+objective: 'Teaching computacional thinking to kids blah blah blah.'
+illustration: 
+our-game: 'A stealth puzzle game that encourages lateral thinking blah blah blah.'
+little-crows:
+
+#-------------------------------
 # Experience Section
 
 experience-title: Experience
@@ -121,7 +130,7 @@ projects:
 # Social Settings
 
 social:
-- {link: "https://tale-weavers.itch.io/", icon: ion-link-outline }
+- {link: "https://tale-weavers.itch.io/", icon: ion-ios-briefcase }
 - {link: "https://twitter.com/taleweavers_", icon: ion-logo-twitter }
 - {link: "https://www.instagram.com/taleweavers_/", icon: ion-logo-instagram }
 - {link: "https://www.twitch.tv/tale_weavers", icon: ion-logo-twitch }
