@@ -64,13 +64,18 @@ image: banner.jpg
 <div class="project">
   <h2 class="project-title-title section-title"><i class="ion ion-ios-briefcase"></i> {{ site.data.settings.project-title }}</h2>
   <div class="project-description">{{ site.data.settings.objective }}</div>
+  <div>
+    <br>
+  <div>
   <div class="our-game-description">{{ site.data.settings.our-game }}</div>
-  <div><div>
+  <div>
+    <br>
+  <div>
   <ul class="aspect-list list-reset">
     {% for core in site.data.settings.core %}
       {% for i in (1..1) %}
       <li class="core-item">
-        <h3 class="core-name">{{ core.pilar-name }}</h3>
+        <h5 class="core-name">{{ core.pilar-name }}</h5>
         <div class="core-description">{{ core.consists-on }}</div>
       </li>
       {% endfor %}
