@@ -39,9 +39,9 @@ objective: 'We are currently working on a stealth puzzle game. It is not only me
 illustration: 
 our-game: 'In order to achive our goals, we are focusing our efforts on fulfilling three aspects:'
 core:
-- {pilar-name: Level Design, consists-on: We believe creating a challenging level design, thus both pushing our players to break down each level into more manageable problems and learn from previous experience, and making for an entertaining activity.}
-- {pilar-name: Art and Setting, consists-on: We are working to achieve a theme and style that they will find friendly, yet not patronising. The game follows the compelling heist/rescue story of a crow who must rescue a captured friend from the claws of mobster cats, infiltrating their lair without being detected by security or seized by the guards.}
-- {pilar-name: Programing and Gameplay feel, consists-on: When working on any game, specially a multiplatform web game such as this one, the feel of the gameplay can make or break the user experience. We are designing and programming our game so that it may run smoothly on two of the most used browsers and planning our controls so that it makes for a satisfying gaming experience both on mobile and PC.} 
+- {pilar-name: Level Design, consists-on: 'We believe creating a challenging level design, thus both pushing our players to break down each level into more manageable problems and learn from previous experience, and making for an entertaining activity.'}
+- {pilar-name: Art and Setting, consists-on: 'We are working to achieve a theme and style that they will find friendly, yet not patronising. The game follows the compelling heist/rescue story of a crow who must rescue a captured friend from the claws of mobster cats, infiltrating their lair without being detected by security or seized by the guards.'}
+- {pilar-name: Programing and Gameplay feel, consists-on: 'When working on any game, specially a multiplatform web game such as this one, the feel of the gameplay can make or break the user experience. We are designing and programming our game so that it may run smoothly on two of the most used browsers and planning our controls so that it makes for a satisfying gaming experience both on mobile and PC.'} 
 little-crows:
 
 #-------------------------------
@@ -49,7 +49,7 @@ little-crows:
 
 experience-title: Experience
 experience:
-- {company-name: Industry Design & Media, duration: 2015 - 2018, job-position: Graphic and Web Designer in San Francisco, description: We believe creating a challenging level design, thus both pushing our players to break down each level into more manageable problems and learn from previous experience, and making for an entertaining activity.}
+- {company-name: Industry Design & Media, duration: 2015 - 2018, job-position: Graphic and Web Designer in San Francisco, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
 
 - {company-name: Graphic Design, duration: 2011 - 2015, job-position: Senior Illustrator in Milan, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
 
