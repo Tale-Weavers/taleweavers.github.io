@@ -130,7 +130,7 @@ projects:
 # Social Settings
 
 social:
-- {link: "https://tale-weavers.itch.io/", icon: ion-ios-game-controller-outline }
+- {link: "https://tale-weavers.itch.io/", icon: ion-ios-game-controller }
 - {link: "https://twitter.com/taleweavers_", icon: ion-logo-twitter }
 - {link: "https://www.instagram.com/taleweavers_/", icon: ion-logo-instagram }
 - {link: "https://www.twitch.tv/tale_weavers", icon: ion-logo-twitch }
