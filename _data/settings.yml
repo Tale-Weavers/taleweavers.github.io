@@ -35,9 +35,13 @@ skills:
 # Project Section
 
 project-title: Our Project
-objective: 'Teaching computacional thinking to kids blah blah blah.'
+objective: 'We are currently working on a stealth puzzle game. It is not only meant to be a fun strategic game aimed at a young audience, but also a tool to help them develop computational thinking skills and develop effective problem-solving techniques. These abilities are essential, and it is important to provide children with tools that will help them exercise them. However, we feel that oftentimes didactical and serious games, even those aimed at kids, dwell too much on the didactical portion of the equation and fail to engage them in a fun way, thus losing their interest or becoming one chore more. We want our game to be above all something they can enjoy playing, we believe that educational values and enjoyment are not at odds, but rather two aspects that can work in tandem to the benefit of our players. They are unextricable and uncompromisable.'
 illustration: 
-our-game: 'A stealth puzzle game that encourages lateral thinking blah blah blah.'
+our-game: 'In order to achive our goals, we are focusing our efforts on fulfilling three aspects:'
+core:
+- {pilar-name: Level Design, consists-on: We believe creating a challenging level design, thus both pushing our players to break down each level into more manageable problems and learn from previous experience, and making for an entertaining activity.}
+- {pilar-name: Art and Setting, consists-on: We are working to achieve a theme and style that they will find friendly, yet not patronising. The game follows the compelling heist/rescue story of a crow who must rescue a captured friend from the claws of mobster cats, infiltrating their lair without being detected by security or seized by the guards.}
+- {pilar-name: Programing and Gameplay feel, consists-on: When working on any game, specially a multiplatform web game such as this one, the feel of the gameplay can make or break the user experience. We are designing and programming our game so that it may run smoothly on two of the most used browsers and planning our controls so that it makes for a satisfying gaming experience both on mobile and PC.} 
 little-crows:
 
 #-------------------------------
