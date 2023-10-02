@@ -106,17 +106,17 @@ clients:
 projects:
 - {
   name: Pablo Conde López, 
-  cv: 'PabloCondeLopez-CV-Spanish.pdf',
+  cv: 'https://drive.google.com/file/d/1HUKomVdMPxH-7MLCsni4P6Ivmd48eQ2S/view?usp=sharing',
   image: '10.jpg'
 }
 - {
   name: Almudena Sánchez Encinas, 
-  cv: '(EN) Almudena Sanchez Encinas - Curriculum Vitae.pdf',
+  cv: 'https://drive.google.com/file/d/1DuZPhuRb4hvI42uSyRZQHlszc0FqxM3N/view?usp=sharing',
   image: '10.jpg'
 }
 - {
   name: Daniel Salguero Fernández, 
-  cv: 'Currículum - Daniel Salguero Fernández (1).pdf',
+  cv: 'https://drive.google.com/file/d/1_fPPJQhFp9FOzBG76-6KkgwD3bktFRhW/view?usp=sharing',
   image: '10.jpg'
 }
 - {
@@ -131,7 +131,7 @@ projects:
 }
 - {
   name: Luis Morón Álvarez,
-  cv: 'LuisMorónÁlvarez-English.pdf',
+  cv: 'https://drive.google.com/file/d/1bmw-uS2hvIAzL0bjdAK5sz8oZpDfpDdr/view?usp=sharing',
   image: '10.jpg'
 }
 
