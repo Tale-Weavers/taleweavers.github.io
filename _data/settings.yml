@@ -106,27 +106,33 @@ clients:
 projects:
 - {
   name: Pablo Conde López, 
-  cv: 'PabloCondeLopez-CV-Spanish.pdf'
+  cv: 'PabloCondeLopez-CV-Spanish.pdf',
+  image: '10.jpg'
 }
 - {
   name: Almudena Sánchez Encinas, 
-  cv: '(EN) Almudena Sanchez Encinas - Curriculum Vitae.pdf'
+  cv: '(EN) Almudena Sanchez Encinas - Curriculum Vitae.pdf',
+  image: '10.jpg'
 }
 - {
   name: Daniel Salguero Fernández, 
-  cv: 'Currículum - Daniel Salguero Fernández (1).pdf'
+  cv: 'Currículum - Daniel Salguero Fernández (1).pdf',
+  image: '10.jpg'
 }
 - {
   name: Gloria Turati Domínguez,
-  cv: '13.jpg'
+  cv: '13.jpg',
+  image: '10.jpg'
 }
 - {
   name: Gonzalo Barranco Castro,
-  cv: '14.jpg'
+  cv: '14.jpg',
+  image: '10.jpg'
 }
 - {
   name: Luis Morón Álvarez,
-  cv: 'LuisMorónÁlvarez-English.pdf'
+  cv: 'LuisMorónÁlvarez-English.pdf',
+  image: '10.jpg'
 }
 
 #-------------------------------
