@@ -124,12 +124,12 @@ projects:
 }
 - {
   name: Gloria Turati Domínguez,
-  cv: '13.jpg',
+  cv: https://open.spotify.com/artist/0e0kNNMsqqwC3TZgchsjmz,
   image: 'gloria.jpeg'
 }
 - {
   name: Gonzalo Barranco Castro,
-  cv: '14.jpg',
+  cv: https://gonsowo.itch.io/,
   image: 'gonso.jpeg'
 }
 - {
