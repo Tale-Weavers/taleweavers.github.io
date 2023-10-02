@@ -105,28 +105,28 @@ clients:
 
 projects:
 - {
-  name: Design Talks, 
-  image: '10.jpg'
+  name: Pablo Conde López, 
+  cv: 'PabloCondeLopez-CV-Spanish.pdf'
 }
 - {
-  name: Abstract Page, 
-  image: '11.jpg'
+  name: Almudena Sánchez Encinas, 
+  cv: '(EN) Almudena Sanchez Encinas - Curriculum Vitae.pdf'
 }
 - {
-  name: Round Shapes, 
-  image: '12.jpg'
+  name: Daniel Salguero Fernández, 
+  cv: 'Currículum - Daniel Salguero Fernández (1).pdf'
 }
 - {
-  name: Color Palette,
-  image: '13.jpg'
+  name: Gloria Turati Domínguez,
+  cv: '13.jpg'
 }
 - {
-  name: Color Palette,
-  image: '14.jpg'
+  name: Gonzalo Barranco Castro,
+  cv: '14.jpg'
 }
 - {
-  name: Color Palette,
-  image: '15.jpg'
+  name: Luis Morón Álvarez,
+  cv: 'LuisMorónÁlvarez-English.pdf'
 }
 
 #-------------------------------
