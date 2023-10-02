@@ -107,35 +107,35 @@ projects:
 - {
   name: Pablo Conde López, 
   #cv: 'PabloCondeLopez-CV-Spanish.jpg',
-  cv: https://drive.google.com/file/d/1HUKomVdMPxH-7MLCsni4P6Ivmd48eQ2S/view?usp=sharing,
+  cv: "https://drive.google.com/file/d/1HUKomVdMPxH-7MLCsni4P6Ivmd48eQ2S/view?usp=sharing",
   image: 'pablo.jpeg'
 }
 - {
   name: Almudena Sánchez Encinas, 
   #cv: '(EN) Almudena Sanchez Encinas - Curriculum Vitae.jpg',
-  cv: https://drive.google.com/file/d/1DuZPhuRb4hvI42uSyRZQHlszc0FqxM3N/view?usp=sharing,
+  cv: "https://drive.google.com/file/d/1DuZPhuRb4hvI42uSyRZQHlszc0FqxM3N/view?usp=sharing",
   image: 'almu.jpeg'
 }
 - {
   name: Daniel Salguero Fernández, 
   #cv: 'Currículum - Daniel Salguero Fernández (1).jpg',
-  cv: https://drive.google.com/file/d/1_fPPJQhFp9FOzBG76-6KkgwD3bktFRhW/view?usp=sharing, 
+  cv: "https://drive.google.com/file/d/1_fPPJQhFp9FOzBG76-6KkgwD3bktFRhW/view?usp=sharing", 
   image: 'dani.jpeg'
 }
 - {
   name: Gloria Turati Domínguez,
-  cv: https://open.spotify.com/artist/0e0kNNMsqqwC3TZgchsjmz,
+  cv: "https://open.spotify.com/artist/0e0kNNMsqqwC3TZgchsjmz",
   image: 'gloria.jpeg'
 }
 - {
   name: Gonzalo Barranco Castro,
-  cv: https://gonsowo.itch.io/,
+  cv: "https://gonsowo.itch.io/",
   image: 'gonso.jpeg'
 }
 - {
   name: Luis Morón Álvarez,
   #cv: 'LuisMorónÁlvarez-English.jpg',
-  cv: https://drive.google.com/file/d/1bmw-uS2hvIAzL0bjdAK5sz8oZpDfpDdr/view?usp=sharing,
+  cv: "https://drive.google.com/file/d/1bmw-uS2hvIAzL0bjdAK5sz8oZpDfpDdr/view?usp=sharing",
   image: 'luis.jpeg'
 }
 
