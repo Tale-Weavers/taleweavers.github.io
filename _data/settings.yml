@@ -72,32 +72,32 @@ clients:
 - {
   name: "Pablo Conde López",
   title: "Programmer & Game Designer",
-  quote: "<p><strong>Working with Chris was the highlight of my career.</strong> Art party before they sold out lo-fi cronut. Narwhal normcore kinfolk crucifix cronut coloring book man braid lomo fixie sartorial helvetica cornhole activated charcoal ethical.</p>"
+  #quote: "<p><strong>Working with Chris was the highlight of my career.</strong> Art party before they sold out lo-fi cronut. Narwhal normcore kinfolk crucifix cronut coloring book man braid lomo fixie sartorial helvetica cornhole activated charcoal ethical.</p>"
 }
 - {
   name: "Almudena Sánchez Encinas",
   title: "Artist",
-  quote: "<p><strong>While we all felt that Chris was a great.</strong> Woke lumbersexual iceland truffaut blog, deep v poke ramps vexillologist heirloom flexitarian taxidermy lomo seitan gastropub. Bespoke vape next level meditation tattooed cred.</p>"
+  #quote: "<p><strong>While we all felt that Chris was a great.</strong> Woke lumbersexual iceland truffaut blog, deep v poke ramps vexillologist heirloom flexitarian taxidermy lomo seitan gastropub. Bespoke vape next level meditation tattooed cred.</p>"
 }
 - {
   name: "Daniel Salguero Fernández",
   title: "Game Designer & Musician",
-  quote: "<p><strong>Chillwave ethical enamel pin, fashion axe leggings.</strong> Bespoke franzen umami sustainable. Chambray keffiyeh cred sriracha. Hashtag street art humblebrag pok pok viral meggings tacos chambray narwhal gentrify woke etsy.</p>"
+  #quote: "<p><strong>Chillwave ethical enamel pin, fashion axe leggings.</strong> Bespoke franzen umami sustainable. Chambray keffiyeh cred sriracha. Hashtag street art humblebrag pok pok viral meggings tacos chambray narwhal gentrify woke etsy.</p>"
 }
 - {
   name: "Gloria Turati Domínguez",
   title: "Artist & Musician",
-  quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
+  #quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
 }
 - {
   name: "Gonzalo Barranco Castro",
   title: "Designer & Programming Assistant",
-  quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
+  #quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
 }
 - {
   name: "Luis Morón Álvarez",
   title: "Programmer",
-  quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
+  #quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
 }
 
 #-------------------------------
