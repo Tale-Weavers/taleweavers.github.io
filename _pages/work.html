@@ -9,19 +9,20 @@ permalink: /work/
   <div class="work-box">
     {% for project in site.data.settings.projects %}
     <div class="work-item">
-      <div class="work-image-container">
+      <!--<div class="work-image-container">-->
         <!--<a class="work-popup-link" href="{{ site.baseurl }}/curriculums/{{ project.cv }}">-->
         <!--<a class="work-popup-link" href={{ project.link }}>
           <div class="work-image" {% if project.image %} style="background-image: url({{"/images/work/" | prepend: site.baseurl | append :
         project.image}})" {% else %} style="background-image: url(https://via.placeholder.com/1280x720)" {% endif %}></div>
         </a>-->
-        <a href={{ project.link }}>
-          <img src=images/work/{{ project.image }}>
-        </a>
-      </div>
-      <div  class="work-overlay">
+        
+      <!--</div>-->
+      <a href={{ project.link }}>
+        <img src=images/work/{{ project.image }}>
+      </a>
+      <!--<div  class="work-overlay">
         <strong>{{ project.name }}</strong>
-      </div>
+      </div>-->
     </div>
     {% endfor %}
   </div>
