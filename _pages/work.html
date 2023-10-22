@@ -16,7 +16,7 @@ permalink: /work/
         project.image}})" {% else %} style="background-image: url(https://via.placeholder.com/1280x720)" {% endif %}></div>
         </a>-->
         <a href={{ project.link }}>
-          <img src=url({{"/images/work/" | prepend: site.baseurl | append : project.image}})>
+          <img src=images/work/{{ project.image }}>
         </a>
       </div>
       <div  class="work-overlay">
