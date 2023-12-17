@@ -170,33 +170,41 @@
   }
 }
 
+
 .client-info {
   text-align: center;
   .client-name {
     display: block;
     font-size: 18px;
+    margin-top: 10px; /* Ajusta el espaciado entre la imagen y el texto */
   }
   .client-title {
     color: $gray;
     font-style: normal;
+    margin-top: 5px; /* Ajusta el espaciado entre el nombre y el título */
   }
 }
 
-  .clients-item {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    width: 200px; /* Ancho del contenedor */
-    height: 200px; /* Altura del contenedor */
-    /* Puedes agregar propiedades adicionales aquí, como border o padding. */
-  }
+
+.clients-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  /* Puedes agregar propiedades adicionales aquí, como border o padding. */
+}
+
 .clients-item img {
   max-width: 100%;
   max-height: 100%;
-  
+  margin: auto; /* Centra la imagen horizontalmente */
   /* Puedes agregar propiedades adicionales aquí, como border-radius, etc. */
 }
+
+
 
 .slick-list {
   margin-bottom: 60px;
