@@ -172,37 +172,45 @@
 
 .clients-item {
   display: flex;
-  flex-direction: column; /* Asegura que los elementos se apilen verticalmente */
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 200px; /* Ancho del contenedor */
-  height: 200px; /* Altura del contenedor */
-  border: 1px solid #ccc; /* Ejemplo: borde para visualización */
-  margin: 0 auto; /* Ajuste el margen automático para centrar en la página si es necesario */
-  /* Puedes agregar propiedades adicionales aquí, como border o padding. */
+  width: 200px;
+  height: 200px;
+  border: 1px solid #ccc;
+  margin: 0 auto;
 
   img {
-    max-width: 100%; /* Asegura que la imagen no exceda el tamaño del contenedor */
-    max-height: 100%; /* Asegura que la imagen no exceda el tamaño del contenedor */
-    display: block; /* Elimina cualquier espacio adicional alrededor de la imagen */
-    margin: auto; /* Centra la imagen horizontalmente */
-    border-radius: 50%; /* Si deseas bordes redondeados para las imágenes circulares */
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
   }
 
   .client-info {
-    text-align: center; /* Centra el texto dentro del contenedor */
-    margin-top: 10px; /* Espacio adicional arriba del texto */
-    .client-name {
-      display: block;
-      font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+
+    .client-name,
+    .client-title {
+      margin: 0; /* Asegura que no haya margen */
     }
+
+    .client-name {
+      font-size: 18px;
+      display: block;
+    }
+
     .client-title {
       color: $gray;
       font-style: normal;
       font-size: 14px;
+      display: block;
     }
   }
 }
+
 
 .slick-list {
   margin-bottom: 60px;
