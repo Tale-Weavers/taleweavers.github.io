@@ -26,15 +26,14 @@ image: banner.jpg
   <div class="clients-box">
     <ul class="clients-list siema slick list-reset">
       {% for clients in site.data.settings.clients %}
-        {% for i in (1..1) %}
         <li class="clients-item">
-          <img class="client-info" src="images/work/{{ clients.image }}" alt="{{ clients.name }}">
+          <img class="client-info" src="images/work/{{ clients.image }}" alt="{{ clients.name }}">
+          <div>
             <strong class="client-name">{{ clients.name }}</strong>
             <em class="client-title">{{ clients.title }}</em>
           </div>
-          <!--<div class="client-quote"><i class="ion ion-md-quote"></i> {{ clients.quote }}</div>-->
+          <!-- <div class="client-quote"><i class="ion ion-md-quote"></i> {{ clients.quote }}</div> -->
         </li>
-        {% endfor %}
       {% endfor %}
     </ul>
   </div>
