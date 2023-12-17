@@ -28,7 +28,7 @@ image: banner.jpg
       {% for clients in site.data.settings.clients %}
         {% for i in (1..1) %}
         <li class="clients-item">
-          <div class="client-info">
+          <img class="client-info" src="{{ clients.image }}" alt="{{ clients.name }}">
             <strong class="client-name">{{ clients.name }}</strong>
             <em class="client-title">{{ clients.title }}</em>
           </div>
