@@ -170,20 +170,9 @@
   }
 }
 
-.client-info {
-  text-align: center;
-  .client-name {
-    display: block;
-    font-size: 18px;
-  }
-  .client-title {
-    color: $gray;
-    font-style: normal;
-  }
-}
-
 .clients-item {
   display: flex;
+  flex-direction: column; /* Asegura que los elementos se apilen verticalmente */
   justify-content: center;
   align-items: center;
   width: 200px; /* Ancho del contenedor */
@@ -197,6 +186,21 @@
     max-height: 100%; /* Asegura que la imagen no exceda el tamaño del contenedor */
     display: block; /* Elimina cualquier espacio adicional alrededor de la imagen */
     margin: auto; /* Centra la imagen horizontalmente */
+    border-radius: 50%; /* Si deseas bordes redondeados para las imágenes circulares */
+  }
+
+  .client-info {
+    text-align: center; /* Centra el texto dentro del contenedor */
+    margin-top: 10px; /* Espacio adicional arriba del texto */
+    .client-name {
+      display: block;
+      font-size: 18px;
+    }
+    .client-title {
+      color: $gray;
+      font-style: normal;
+      font-size: 14px;
+    }
   }
 }
 
