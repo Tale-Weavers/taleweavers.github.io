@@ -105,6 +105,11 @@ clients:
 
 projects:
 - {
+  name: Whispers & Whiskers: Feather Noir's Heist, 
+  link: "https://tale-weavers.itch.io/whispers-and-whiskers",
+  image: 'cover.png'
+}
+- {
   name: Astral Trials - Aspect of Pluto, 
   link: "https://kaixian17.itch.io/astral-trials-aspect-of-pluto",
   image: 'astral-trials.png'
