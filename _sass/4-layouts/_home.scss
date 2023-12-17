@@ -174,12 +174,10 @@
   text-align: center;
   .client-name {
     display: block;
-    text-align: center;
     font-size: 18px;
   }
   .client-title {
     color: $gray;
-    text-align: center;
     font-style: normal;
   }
 }
@@ -188,6 +186,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     width: 200px; /* Ancho del contenedor */
     height: 200px; /* Altura del contenedor */
     /* Puedes agregar propiedades adicionales aquí, como border o padding. */
