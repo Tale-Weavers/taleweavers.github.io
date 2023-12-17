@@ -72,7 +72,7 @@ clients:
 - {
   name: "Pablo Conde López",
   title: "Programmer & Game Designer",
-  image: "pablo.jpeg",
+  image: 'pablo.jpeg',
   #quote: "<p><strong>Working with Chris was the highlight of my career.</strong> Art party before they sold out lo-fi cronut. Narwhal normcore kinfolk crucifix cronut coloring book man braid lomo fixie sartorial helvetica cornhole activated charcoal ethical.</p>"
 }
 - {
