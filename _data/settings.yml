@@ -72,37 +72,37 @@ clients:
 - {
   name: "Pablo Conde López",
   title: "Programmer & Game Designer",
-  image: 'pablo.jpeg',
+  image: "../images/work/pablo.jpeg",
   #quote: "<p><strong>Working with Chris was the highlight of my career.</strong> Art party before they sold out lo-fi cronut. Narwhal normcore kinfolk crucifix cronut coloring book man braid lomo fixie sartorial helvetica cornhole activated charcoal ethical.</p>"
 }
 - {
   name: "Almudena Sánchez Encinas",
   title: "Artist",
-  image: "almu.jpeg",
+  image: "../images/work/almu.jpeg",
   #quote: "<p><strong>While we all felt that Chris was a great.</strong> Woke lumbersexual iceland truffaut blog, deep v poke ramps vexillologist heirloom flexitarian taxidermy lomo seitan gastropub. Bespoke vape next level meditation tattooed cred.</p>"
 }
 - {
   name: "Daniel Salguero Fernández",
   title: "Game Designer & Musician",
-  image: "dani.jpeg",
+  image: "../images/work/dani.jpeg",
   #quote: "<p><strong>Chillwave ethical enamel pin, fashion axe leggings.</strong> Bespoke franzen umami sustainable. Chambray keffiyeh cred sriracha. Hashtag street art humblebrag pok pok viral meggings tacos chambray narwhal gentrify woke etsy.</p>"
 }
 - {
   name: "Gloria Turati Domínguez",
   title: "Artist & Musician",
-  image: "gloria.jpeg",
+  image: "../images/work/gloria.jpeg",
   #quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
 }
 - {
   name: "Gonzalo Barranco Castro",
   title: "Designer & Programming Assistant",
-  image: "gonso.jpeg",
+  image: "../images/work/gonso.jpeg",
   #quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
 }
 - {
   name: "Luis Morón Álvarez",
   title: "Programmer",
-  image: "luis.jpeg",
+  image: "../images/work/luis.jpeg",
   #quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
 }
 
